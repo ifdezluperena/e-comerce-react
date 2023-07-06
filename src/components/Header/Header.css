@@ -1,0 +1,9 @@
+/* .main-header{
+    display: grid;
+    grid-template-rows: repeat(3,1fr);
+    height: 100px;
+} */
+.header-logos{
+    display: flex;
+    justify-content: space-between;
+}

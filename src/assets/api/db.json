@@ -1,0 +1,64 @@
+{
+    "products":[
+        {
+            "id": "1",
+            "title": "Zoe Arcanist Skin",
+            "description": "Join Zoe and Kog'Maw as they journey through a magical world and confront the dark wizard, Shaco.",
+            "price": 10.99,
+            "img": "../src/assets/img//Zoe_ArcanistSkin.webp"
+
+        },
+        {
+            "id": "2",
+            "title": "Zoe Arcanist Prestige Edition Skin",
+            "description": "Join Zoe and Kog'Maw as they journey through a magical world and confront the dark wizard, Shaco.",
+            "price": 15.99,
+            "img": "../src/assets/img/Zoe_PrestigeArcanistSkin.webp"
+
+        },
+        {
+            "id": "3",
+            "title": "Zoe Ciber Pop Skin",
+            "description": "In the vibrant underground of Sound City, hackers, skaters, rebels, and rogues band together away from the prying eyes of powerful cyber-corporate overlords.",
+            "price": 10.99,
+            "img": "../src/assets/img/Zoe_CyberPopSkin.webp"
+
+        },
+        {
+            "id": "4",
+            "title": "Zoe Pool Party Skin",
+            "description": "Who let this ageless, cosmic child in here unattended? This is a public pool, not some sort of ageless, cosmic daycare.",
+            "price": 10.99,
+            "img": "../src/assets/img/Zoe_PoolPartySkin.webp",
+            "color": ["Amethyst","Esmerald","RainBow","Rose","Ruby","Sapphire"]
+
+        },
+        {
+            "id": "5",
+            "title": "Zoe EDG Skin",
+            "description": "Official League of Legends EDG Zoe lore: Honoring Scout’s winning performance as Zoe during the 2021 World Championship",
+            "price": 10.99,
+            "img": "../src/assets/img/Zoe_EDGSkin.webp",
+            "color": ["Elite"]
+
+        },
+        {
+            "id": "6",
+            "title": "Zoe Star Guardian",
+            "description": "A member of the ancient, first group of Star Guardians, Zoe’s heart desired not love, but chaos twisting her newfound power into a malignant expression of cosmic madness. After numberless eons of hunting the First Star’s chosen, she has finally come to Valoran City, hoping to destroy the latest generation of Guardians as she has countless others",
+            "price": 10.99,
+            "img": "../src/assets/img/Zoe_StarGuardianSkin.webp",
+            "color": ["Aquamarine","Citrine","Esmerald","Jasper","Pearl","Rose","Ruby","Amethyst"]
+        },
+        {
+            "id": "7",
+            "title": "Zoe Winter Blessed",
+            "description": "Winter is nigh and there’s a chill in the air. It’s a time for celebration, togetherness, and, of course, sharing stories passed down through the ages.So why don’t you come cozy up by the fire with your Scorchclaw Pup and let us tell you a tale of the Winterblessed…",
+            "price": 10.99,
+            "img": "../src/assets/img/Zoe_WinterblessedSkin.webp",
+            "color": ["Aquamarine","Catseye","Esmerald","Peridot","Rainbow","Rose","Ruby","Sapphire","Wreathguard"]
+
+        }
+    ]
+
+}
